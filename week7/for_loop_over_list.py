@@ -9,7 +9,7 @@ def getmylist():
         
         print(item)
 
-        return length
+    return length
    
-    total = getmylist()
-    print(f"The total count is: {total}")
+total = getmylist()
+print(f"The total count is: {total}")
