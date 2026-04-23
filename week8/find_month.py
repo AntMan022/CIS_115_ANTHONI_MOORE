@@ -7,5 +7,5 @@ months = ["Jan", "Feb", "March", "Apirl", "May", "June", "July", "Aug", "Sept", 
 if True: 
     print("We found {month} in the months list")
 
-if False:
+else:
     print("We could not find {month} in the months list")
